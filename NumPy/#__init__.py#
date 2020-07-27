@@ -1,0 +1,53 @@
+import numpy as np
+import matplotlib.pyploy
+x = np.arange(-1000, 1010, 10)
+y_tow_order = x**2
+y_three_order = q
+print(x)
+print(y_tow_order)
+plt.plot(x,y_tow_order)
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
